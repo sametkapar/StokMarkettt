@@ -1,0 +1,7 @@
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\bin\Debug\StokMarket.exe.config
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\bin\Debug\StokMarket.exe
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\bin\Debug\StokMarket.pdb
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.csproj.AssemblyReference.cache
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.csproj.CoreCompileInputs.cache
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.exe
+C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.pdb
