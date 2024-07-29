@@ -45,25 +45,25 @@ namespace StokMarket
             {
                 if (urunler[i].ürünStok != 0)
                 {
-                    Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı} {urunler[i].ürünFiyat}\tTL\tÜRÜN STOK MİKTARI = {urunler[i].ürünStok}");
+                    Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı}\t:{urunler[i].ürünFiyat}\tTL\tÜRÜN STOK MİKTARI = {urunler[i].ürünStok}");
                 }
                 else
                 {
-                    Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı} {urunler[i].ürünFiyat}\tTL\tÜRÜN STOKTA KALMAMIŞTIR");
+                    Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı}\t:{urunler[i].ürünFiyat}\tTL\tÜRÜN STOKTA KALMAMIŞTIR");
                 }
 
             }
         }
-        public void UrunAlma(int p_urun, int p_adet)
+        public void StokAzalt(int p_urun, int p_adet)
         {
             int index = p_urun - 1;
             urunler[index].ürünStok -= p_adet;
+
         }
-        public void UrunSepete(int p_adet)
+        public double AraToplam(int p_urun, int p_adet)
         {
-
-
-
+            int index = p_urun - 1;
+            return  urunler[index].ürünFiyat * p_adet;
         }
 
     }
