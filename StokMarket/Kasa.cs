@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
+using System.Net.NetworkInformation;
 using System.Reflection.Emit;
 using System.Runtime.InteropServices;
 using System.Text;
@@ -12,7 +13,7 @@ namespace StokMarket
     internal class Kasa
     {
         public Urun[] urunler;
-        public double[] toplam;
+
 
         public Kasa()
         {
@@ -50,32 +51,18 @@ namespace StokMarket
                 {
                     Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı} {urunler[i].ürünFiyat}\tTL\tÜRÜN STOKTA KALMAMIŞTIR");
                 }
-                
-            }
-        }
-        public void UrunAlma(int p_urun)
-        {
-            double toplam = 0;
-            for (int i = 0; i < urunler.Length; i++)
-            {
-                if ((i + 1) == p_urun && urunler[i].ürünStok != 0)
-                {
-                    Console.WriteLine("Kaç adet " + urunler[i].ürünAdı + " almak istersiniz?");
-                    int adet = Convert.ToInt32(Console.ReadLine());
-                    urunler[i].ürünStok -= adet;
-
-                    toplam += (adet * urunler[i].ürünFiyat);
-
-                    break;
-                }
-
 
             }
-
         }
-        public void UrunSepete()
+        public void UrunAlma(int p_urun, int p_adet)
         {
-            
+            int index = p_urun - 1;
+            urunler[index].ürünStok -= p_adet;
+        }
+        public void UrunSepete(int p_adet)
+        {
+
+
 
         }
 

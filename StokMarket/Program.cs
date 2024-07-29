@@ -15,7 +15,7 @@ namespace StokMarket
             Kasa islem = new Kasa();
 
             string devam = "e";
-
+           
             while(devam == "e")
             {
                 
@@ -23,10 +23,10 @@ namespace StokMarket
 
                 Console.WriteLine("Almak istediğiniz ürün numarısını giriniz: ");
                 int urunno = Convert.ToInt32(Console.ReadLine());
-                
-                islem.UrunAlma(urunno);
-                islem.UrunSepete();
-               
+                Console.WriteLine("Kaç adet " + islem.urunler[urunno-1].ürünAdı + " almak istiyorsunuz");
+                int adet = Convert.ToInt32(Console.ReadLine());
+                islem.UrunAlma(urunno, adet);
+                islem.UrunSepete(urunno);
 
 
                 Console.WriteLine("Alışverişe devam etmek istiyor musunuz?e/h");

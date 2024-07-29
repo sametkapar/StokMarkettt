@@ -5,3 +5,10 @@ C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.csproj.A
 C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.csproj.CoreCompileInputs.cache
 C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.exe
 C:\Users\Skapar\source\repos\StokMarket\StokMarket\obj\Debug\StokMarket.pdb
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\bin\Debug\StokMarket.exe.config
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\bin\Debug\StokMarket.exe
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\bin\Debug\StokMarket.pdb
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\obj\Debug\StokMarket.csproj.AssemblyReference.cache
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\obj\Debug\StokMarket.csproj.CoreCompileInputs.cache
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\obj\Debug\StokMarket.exe
+C:\Users\90506\Documents\GitHub\StokMarkettt\StokMarket\obj\Debug\StokMarket.pdb
