@@ -45,6 +45,8 @@ namespace StokMarket
 
             }
             Console.WriteLine("TOPLAM = " + geneltoplam + " TL");
+            Console.ReadKey();
+
         }
     }
 }

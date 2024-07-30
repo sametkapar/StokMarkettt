@@ -43,7 +43,7 @@ namespace StokMarket
         {
             for (int i = 0; i < urunler.Length; i++)
             {
-                if (urunler[i].ürünStok != 0)
+                if (urunler[i].ürünStok >= 0)
                 {
                     Console.WriteLine((i + 1) + $") {urunler[i].ürünAdı}\t:{urunler[i].ürünFiyat}\tTL\tÜRÜN STOK MİKTARI = {urunler[i].ürünStok}");
                 }

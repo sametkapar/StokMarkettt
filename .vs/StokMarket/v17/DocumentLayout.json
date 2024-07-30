@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\StokMarkettt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|C:\\Users\\user\\Documents\\GitHub\\StokMarkettt\\stokmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|c:\\users\\user\\documents\\github\\stokmarkettt\\stokmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|solutionrelative:stokmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|c:\\users\\user\\documents\\github\\stokmarkettt\\stokmarket\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|C:\\Users\\user\\Documents\\GitHub\\StokMarkettt\\stokmarket\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FA7F7B7-B84C-4D0F-A69C-BB61DC771152}|StokMarket\\StokMarket.csproj|solutionrelative:stokmarket\\kasa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "StokMarket\\Urun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T17:22:28.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T17:22:28.39Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "StokMarket\\Kasa.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\StokMarkettt\\StokMarket\\Kasa.cs",
               "RelativeToolTip": "StokMarket\\Kasa.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAmwCgAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAmwEEAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T18:56:00.693Z",
               "EditorCaption": ""
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "StokMarket\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\StokMarkettt\\StokMarket\\Program.cs",
               "RelativeToolTip": "StokMarket\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T17:22:22.251Z",
               "EditorCaption": ""
