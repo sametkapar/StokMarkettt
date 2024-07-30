@@ -17,7 +17,7 @@ namespace StokMarket
 
         public Kasa()
         {
-            urunler = new Urun[3];
+            urunler = new Urun[4];
 
             Urun urun1 = new Urun();
             urun1.ürünAdı = "Domates";
@@ -36,6 +36,8 @@ namespace StokMarket
             urun3.ürünFiyat = 17.9;
             urun3.ürünStok = 15;
             urunler[2] = urun3;
+
+            urunler[3] = new Urun() { ürünAdı = "Portakal", ürünFiyat = 54, ürünStok = 99 };
 
         }
 
